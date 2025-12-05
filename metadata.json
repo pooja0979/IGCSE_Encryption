@@ -1,0 +1,5 @@
+{
+  "name": "CryptoLearn - IGCSE 4CP0",
+  "description": "An interactive learning platform for Edexcel IGCSE Computer Science students to master encryption concepts including Caesar, Pigpen, Vigenère, and Rail Fence ciphers.",
+  "requestFramePermissions": []
+}
